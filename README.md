@@ -160,7 +160,7 @@ Este proyecto cumple con todos los criterios de evaluación:
 
 ## 👨‍💻 Autor
 
-**Gio Crisrai Godoy**  
+**Giocrisrai Godoy**  
 Curso de Python UNIR - Trabajo 2: Programación Orientada a Objetos
 
 ## 📝 Notas Adicionales
